@@ -1,0 +1,19 @@
+div {
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 7px;
+  background-color: pink;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+div h1 {
+  text-align: center;
+  color: blue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 100;
+}
+div ul {
+  list-style: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
